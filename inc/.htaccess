@@ -1,0 +1,4 @@
+# Use PHPBETA as default
+AddHandler application/x-httpd-phpbeta .php
+
+deny from all

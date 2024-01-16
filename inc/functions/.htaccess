@@ -1,0 +1,3 @@
+# allow all except those indicated here
+order allow,deny
+allow from all

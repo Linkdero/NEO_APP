@@ -1,0 +1,2 @@
+$strPython = "C:/Users/hugo.delacruz/AppData/Local/Programs/Python/Python38-32/python.exe F:/xampp/htdocs/saas_app/img/JCAM.py ".$ip_camara." ".$camara." ".$ruta; 
+$scriptPython = escapeshellcmd($strPython);
